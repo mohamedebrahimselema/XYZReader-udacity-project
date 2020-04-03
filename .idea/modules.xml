@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/XYZReader/XYZReader.iml" filepath="$PROJECT_DIR$/XYZReader/XYZReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XYZReader-udacity-project.iml" filepath="$PROJECT_DIR$/XYZReader-udacity-project.iml" group="XYZReader-udacity-project" />
+      <module fileurl="file://$PROJECT_DIR$/XYZReader/XYZReader-udacity-project-XYZReader.iml" filepath="$PROJECT_DIR$/XYZReader/XYZReader-udacity-project-XYZReader.iml" group="XYZReader-udacity-project/XYZReader" />
+      <module fileurl="file://$PROJECT_DIR$/xyz-udacity.iml" filepath="$PROJECT_DIR$/xyz-udacity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xyzReader-udacity-master.iml" filepath="$PROJECT_DIR$/xyzReader-udacity-master.iml" group="xyzReader-udacity-master" />
+    </modules>
+  </component>
+</project>
